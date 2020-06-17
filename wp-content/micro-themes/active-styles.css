@@ -1,0 +1,67 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> Uagb block 99b7d1b0 b7d5 443c 84ed 79ecab5f8552 uagb ifb content **/
+.uagb-block-99b7d1b0-b7d5-443c-84ed-79ecab5f8552 .uagb-ifb-content {
+	
+}
+
+/** Geral >> Uagb block 999880b7 4cfc 40a5 a941 0d31dc8fdfee uagb column inner wrap **/
+.uagb-block-999880b7-4cfc-40a5-a941-0d31dc8fdfee > .uagb-column__inner-wrap {
+	border-right-width: 1px !important;
+	border-right-style: solid !important;
+}
+
+/** Geral >> Uagb block d7604d07 0933 4beb 941c d3d3712ae505 uagb column inner wrap **/
+.uagb-block-d7604d07-0933-4beb-941c-d3d3712ae505 > .uagb-column__inner-wrap {
+	
+}
+
+/** Geral >> Post 8 uagb column inner wrap **/
+#post-8 .uagb-column__inner-wrap {
+	
+}
+
+/** Geral >> Uagb block 999880b7 4cfc 40a5 a941 0d31dc8fdfee uagb column inner wrap _2 **/
+.uagb-block-999880b7-4cfc-40a5-a941-0d31dc8fdfee > .uagb-column__inner-wrap {
+	border-right-width: 0 !important;
+}
+
+/** Geral >> Uagb block d7604d07 0933 4beb 941c d3d3712ae505 uagb column inner wrap _2 **/
+.uagb-block-d7604d07-0933-4beb-941c-d3d3712ae505 > .uagb-column__inner-wrap {
+	border-right-width: 1px !important;
+	border-left-width: 1px !important;
+	border-right-style: solid !important;
+	border-left-style: solid !important;
+}
+
+/** Geral >> Post 10 wp block social links **/
+#post-10 .wp-block-social-links {
+	padding-top: 15px !important;
+	padding-left: 200px !important;
+}
+
+/** Geral >> Site navigation **/
+#site-navigation {
+	margin-top: -40px !important;
+	margin-bottom: -10px !important;
+}
+
+/** Geral >> Masthead custom logo **/
+#masthead .custom-logo {
+	margin-top: -15px !important;
+	margin-bottom: -10px !important;
+}
+
+/** Geral >> Masthead main header bar **/
+#masthead .main-header-bar {
+	background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0)) !important;
+}
+
+/** Geral >> Primary menu link **/
+#primary-menu a {
+	color: rgb(255, 255, 255) !important;
+}
+

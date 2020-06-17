@@ -1,0 +1,23 @@
+# ignora tudo na raiz, exceto o diretório "wp-content".
+! conteúdo wp /
+
+# ignore tudo no diretório "wp-content", exceto:
+Diretório # "mu-plugins", "plugins", "themes"
+conteúdo wp / *
+! conteúdo wp / mu-plugins /
+! conteúdo wp / plugins /
+! wp-content / themes /
+
+# ignore esses plugins
+wp-content / plugins / hello.php
+
+# ignorar temas específicos
+wp-content / themes / twenty * /
+
+# ignorar diretórios de dependência de nó
+node_modules /
+
+# ignorar arquivos de log e bancos de dados
+* .log
+* .sql
+* .sqlite
